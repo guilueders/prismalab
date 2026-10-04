@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Prisma",
+      "hasCanvas": true,
+      "bodyTextLen": 1095,
+      "bodyTextHash": "c13a9f3223ac67f001ae53a026f6ce72af59bda210ecd2759c748beb480831ab",
+      "bodyTextPrefix": "PRISMA LAB タ ヤワノルチハシ1ン ミンツラミヌヘソチ モナエオラワヤ 0ヒホツシメフニヤ4ムム ––:––:–– B",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Prisma",
+      "hasCanvas": true,
+      "bodyTextLen": 564,
+      "bodyTextHash": "70b91c2cce3c5e338a198f6374971f3fb50b89ea2fa74bf8c2a29c8705481c91",
+      "bodyTextPrefix": "サ オセカミヘクサレテ ツヨア1オヒエシ0 フツウユユホヒ 6ソラヤンワ31ス1トム − PRISMA STUDIO • Iní",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (792 -> 1095 chars, hash mismatch)",
+    "mobile: body text changed (467 -> 564 chars, hash mismatch)"
+  ]
+}

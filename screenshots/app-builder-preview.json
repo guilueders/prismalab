@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Prisma",
+      "hasCanvas": true,
+      "bodyTextLen": 792,
+      "bodyTextHash": "4288a08a482c36758cc36fd5745d7f2a43537c6034e7ad027582e0f8b9e66117",
+      "bodyTextPrefix": "PRISMA LAB 23:24:53 BRASIL > ACESSANDO PRISMA... CONEXÃO − PRISM",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Prisma",
+      "hasCanvas": true,
+      "bodyTextLen": 467,
+      "bodyTextHash": "afcca9a5b5e0dbf5eb3e2689a359411eb79a741d1e6b69df0790c6fca3474ff2",
+      "bodyTextPrefix": "PRISMA LAB BRASIL > ACESSANDO PRISMA... CONEXÃO ESTABELECIDA − P",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
